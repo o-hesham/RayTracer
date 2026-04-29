@@ -1,7 +1,7 @@
 #pragma once
 
-#include "hittable.h"
-#include "material.h"
+#include "raytracer/scene/hittable.h"
+#include "raytracer/material/material.h"
 
 class camera
 {

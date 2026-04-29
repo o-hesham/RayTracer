@@ -1,6 +1,6 @@
 #pragma once
 
-#include "Math/vec3.h"
+#include "raytracer/math/vec3.h"
 
 class ray
 {

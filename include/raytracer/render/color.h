@@ -1,7 +1,7 @@
 #pragma once
 
-#include "interval.h"
-#include "Math/vec3.h"
+#include "raytracer/core/interval.h"
+#include "raytracer/math/vec3.h"
 
 using color = vec3;
 

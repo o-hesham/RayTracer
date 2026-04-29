@@ -1,8 +1,8 @@
-#include "core.h"
-#include "hittable.h"
-#include "hittable_list.h"
-#include "sphere.h"
-#include "camera.h"
+#include "raytracer/core/core.h"
+#include "raytracer/scene/hittable.h"
+#include "raytracer/scene/hittable_list.h"
+#include "raytracer/scene/sphere.h"
+#include "raytracer/render/camera.h"
 
 int main()
 {

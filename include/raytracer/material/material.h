@@ -1,6 +1,6 @@
 #pragma once
 
-#include "hittable.h"
+#include "raytracer/scene/hittable.h"
 
 class material
 {

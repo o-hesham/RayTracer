@@ -31,7 +31,7 @@ inline double randomDouble(double min, double max)
 }
 
 // Common Headers
-#include "color.h"
-#include "ray.h"
-#include "Math/vec3.h"
-#include "interval.h"
+#include "raytracer/render/color.h"
+#include "raytracer/render/ray.h"
+#include "raytracer/math/vec3.h"
+#include "raytracer/core/interval.h"

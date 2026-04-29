@@ -1,6 +1,6 @@
 #pragma once
 
-#include "core.h"
+#include "raytracer/core/core.h"
 
 struct interval
 {
