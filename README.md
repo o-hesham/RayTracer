@@ -2,6 +2,10 @@
 
 A small C++17 ray tracer that renders a scene to a PPM image.
 
+## Screenshots
+
+![RayTracer rendered sphere scene](assets/screenshots/rendered-sphere-scene.png)
+
 ## Features
 - Diffuse, metal, and dielectric (glass) materials
 - Anti-aliased rendering via multiple samples per pixel
